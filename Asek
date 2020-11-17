@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		Nationality of Kazakhstan
+	</title>
+	<link rel="stylesheet" type="text/css" href="home.css">
+	<embed src="Medianoche.mp3" autostart="true" hidden="true" loop="true" width="300" height="65" align="bottom"> </embed>
+</head>
+<body>
+	<div style="position: relative; background-color:#6495ED ;width: 100%; height: 100px top: -10px; ">
+		<img style="position: relative; width: 28,0px; height: 16,7px; left: 40%" src="jpg/unnamed.png">
+		<h1 style="position: relative;text-align: left; color: red"> Nationality </h1> </div>
+		<div style="position: relative;text-align: right; top: -60px;">
+			<button style="position: relative;background-color:##FFC0CB; "></style><li><a href="site.html">Home </a></li></button>
+			<button style="position: relative;background-color:#FFC0CB; "><li><a href="number of population.html">number of population</a></li></button>
+			<button style="position: relative;background-color:#FFC0CB; "><li><a href="Population distribution.html">Population distribution</a></li></button>
+			<button style="position: relative;background-color:#008000 "><li><a href="registration.html">Registration</a></li></button>
+	</div>
+		<section id="Home">
+	<div>
+		<h3 style="position: relative;text-align: center;top: -40px;"> Nationality of Kazakhstan </h3>
+		<p style="position: relative;left: 3%;width: 97%; top: -50px;">The peoples of Kazakhstan are the citizens of all nationalities, which are united by a common historical destiny with the Kazakh people. Ancient Kazakh people and representatives of more than 130 nationalities and ethnoses (ethnoses) live in Kazakhstan. According to statistics for 2013, the number of Kazakhs was 11,058 thousand people, or 65.2% of the country's population. Russians make 21.8%, Uzbeks 3%, Ukrainians 1.8% and Uigurs 1.4%. Koreans and Dungan are relatively numerous.</p>
+		<img style="position: relative; width: 90,0px; height: 48,7px; left: 25%" src="jpg/32897.jpg">
+	</div>
+	</section>
+	<footer>
+		<hr>
+	<p style="position: relative; font-size: 20px; text-align: right;">Asylmurat Sarsenbek <br>
+	IT1-2005<br>
+	Teacher: Aigerim Aitim<br> 
+	IITU<br>
+	vgtbhy2003@gmail.com
+
+	</p>
+	</footer>
+</body>
+</html>
